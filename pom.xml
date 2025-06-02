@@ -8,7 +8,7 @@
   <packaging>jar</packaging>
 
   <name>java-lc-run-example</name>
-  <url>http://maven.apache.org</url>
+  <url>https://github.com/wuxin0011/java-lc-run-exmpale</url>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
