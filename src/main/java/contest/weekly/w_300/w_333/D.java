@@ -4,7 +4,7 @@ import code_generation.utils.IoUtil;
 import code_generation.annotation.TestCaseGroup;
 import java.util.*;
 /**
- * @author: silly-heisenberg8lk
+ * @author: agitated-curranfnd
  * @Description:
  * @url:   <a href="https://leetcode.cn/contest/weekly-contest-333/problems/find-the-string-with-lcp">找出对应 LCP 矩阵的字符串</a>
  * @title: 找出对应 LCP 矩阵的字符串
